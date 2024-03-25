@@ -1,0 +1,19 @@
+{
+  "name": "cli-guess-the-number",
+  "version": "1.0.1",
+  "description": "Generates a random number for the player to guess within a specified range, Provides feedback on each guess, Uses Inquirer.js for a user-friendly command-line interface, Written in TypeScript for improved type safety and readability, Easy-to-understand code structure, suitable for beginners.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
